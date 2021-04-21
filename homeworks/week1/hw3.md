@@ -21,9 +21,11 @@
 
 ### 如何達到想要的功能
 
-用 CLI 輸入 mkdir wifi 去建立一個新的資料夾
+用 CLI 輸入 mkdir wifi 去建立一個叫 wifi 的資料夾
+
+輸入 cd wifi 前往wifi 資料夾中
 
 輸入 touch afu.js 去建立 JS 檔案
 
-
+輸入 ls 去檢查目前的資料
 
